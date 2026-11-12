@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">WhatsApp Scheduler</string>
+    <string name="service_label">WhatsApp Scheduler auto-send</string>
+    <string name="accessibility_description">Taps the Send button in WhatsApp at the time you scheduled a message. It only reads WhatsApp screens and only acts on messages you scheduled in this app.</string>
+</resources>
